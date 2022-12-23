@@ -1,1 +1,1 @@
-# slayer-project
+# slayer-project-vuejs
